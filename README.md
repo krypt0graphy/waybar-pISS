@@ -1,6 +1,6 @@
 # Waybar ISS Urine Tank Module
 
-Inspired by [pISSStream](https://github.com/Jaennaet/pISSStream/tree/main)
+Inspired by [pISSStream](https://github.com/Jaennaet/pISSStream/)
 
 [Waybar](https://github.com/Alexays/Waybar) Module to show the current ISS urine tank capacity.
 
